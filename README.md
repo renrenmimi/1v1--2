@@ -1,4 +1,4 @@
-# Western Duel · Quick Draw Showdown 🤠
+# Western Duel · Quick Draw Showdown
 
 **▶ [Play now](https://renrenmimi.github.io/1v1--2/)** — runs in your browser, nothing to install.
 
