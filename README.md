@@ -4,6 +4,8 @@
 
 High noon, two players, one keyboard. Wait for the signal — then draw. Fire early and you lose the round.
 
+![Western duel — wait for the signal, then draw](docs/screenshot.jpg)
+
 ## Settings
 
 - **Player names** for both sides
